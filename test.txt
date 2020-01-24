@@ -1,5 +1,2 @@
 Test file
-<<<<<<< HEAD
 Test file modified the file content
-=======
->>>>>>> parent of 1d0e1ed... modified the test.txt file
